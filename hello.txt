@@ -1,4 +1,4 @@
-hello git!hello git!
+hello git!hello git!i
 hello git!123456789
 hello git!
 hello git!
@@ -8,4 +8,4 @@ hello git!
 hello git!
 gitgitgitgit
 123456789 master test
-heihieheihei
+heihieheihei hotfix test
